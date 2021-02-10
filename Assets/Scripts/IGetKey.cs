@@ -1,0 +1,4 @@
+interface IGetKey
+{
+    void GetKey();
+}

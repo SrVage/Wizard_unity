@@ -1,0 +1,4 @@
+interface IBomb
+{
+    void trurBomb();
+}
